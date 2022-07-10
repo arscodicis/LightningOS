@@ -1,0 +1,2 @@
+# LightningOS
+Powerful, Fast OS
